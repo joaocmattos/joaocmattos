@@ -7,4 +7,5 @@
     - C# and .NET
     - HTML, CSS and JS
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocmattos&layout=compact)
 
