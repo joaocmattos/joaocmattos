@@ -1,9 +1,17 @@
 ## Hey there 👋 
 
-🤓 I'm a Software Engineering student passionate about technology, programming, and solving problems. I'm currently learning new tools and frameworks to improve my skills and build exciting projects.
+Software Engineer Student trying to code consistently
+
 - 🌱 Currently learning:
     - Java
+    - Spring Boot
+    - API's REST
+    - Spring Security
+    - SQL
+- Looking Forward to Learn:
+  - Python/Machone Learning
+    
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocmattos&layout=compact&theme=transparent)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocmattos&layout=compact&theme=transparent)
 
 
